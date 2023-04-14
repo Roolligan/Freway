@@ -9,5 +9,5 @@ function setup() {
     movimentaCarro();
     movimentaAtor();
     voltaCarro();
-    
+    passouTela();
   }
