@@ -10,4 +10,7 @@ function setup() {
     movimentaAtor();
     voltaCarro();
     passouTela();
+    incluiPontos();
+    marcaPonto();
+    verificaColisao();
   }
